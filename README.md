@@ -43,5 +43,3 @@ Contributions are welcome! Feel free to fork this repository and improve the pro
 This project is open-source and free to use.
 
 This project is open-source and available for free use.
-
-If you want, I can upgrade this to a 🔥 professional README (badges + GIF demo + dark theme) which will make your GitHub look much more impressive.
